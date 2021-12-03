@@ -1,0 +1,25 @@
+body {
+  height: 100vh;
+  font-family: "Poppins", sans-serif;
+  font-weight: 900 !important;
+}
+.height-vh {
+  height: 100vh;
+}
+.main-heading {
+  font-size: 200px;
+  font-weight: 700;
+}
+.fa {
+  font-size: 24px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #00cdac;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  color: white;
+}
